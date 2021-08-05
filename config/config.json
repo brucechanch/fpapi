@@ -1,6 +1,6 @@
 {
   "development": {
-    "database": "fpapi_development",
+    "database": "fpapi",
     "host": "localhost",
     "dialect": "postgres"
   },
